@@ -1,4 +1,4 @@
-# 1. Lecture du `README.md` du dépôt `/github-decouverte` 
+# 1. Lecture du `README-GitHub-Decouverte.md` du dépôt `/github-decouverte` 
 # 2. Création d'un résumé des notions à retenir
 ## 2.1 Création d'un fichier `ResumeGitGitHub.md`
 ## 2.2 Donner la traduction en anglais et une définition simple (_une phrase de moins de 20 mots_) de chacun des termes ci-dessous :

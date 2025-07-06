@@ -31,7 +31,6 @@
 🔶 Problèmes / Tickets
 🔶 Markdown
 ```
-- 2.4 Enregistrer les changements dans le fichier. `Commit changes` (création d'une version : Création du fichier)
-- 2.5 Visualiser le rendu final et apporter les améliorations <ins> si nécessaire </ins>  puis réaliser une nouvelle version ( Amélioration du contenu du fichier)
+- 2.4 Visualiser le rendu final et apporter les améliorations <ins> si nécessaire </ins>  
+3. Enregistrer les changements dans le fichier. `Commit changes` (création d'une version : Création du fichier sous la forme d'une nouvelle branche afin de faire une **Pull request** pour demander l'avis de votre professeur.
 
-** 3. Transférer cette version sur le dépôt distant **

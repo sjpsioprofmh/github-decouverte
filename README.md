@@ -1,7 +1,7 @@
-# 1. Lecture du `README-GitHub-Decouverte.md` du dépôt `/github-decouverte` 
-# 2. Création d'un résumé des notions à retenir
-## 2.1 Création d'un fichier `ResumeGitGitHub.md`
-## 2.2 Donner la traduction en anglais et une définition simple (_une phrase de moins de 20 mots_) de chacun des termes ci-dessous :
+1. Lecture du `README-GitHub-Decouverte.md` du dépôt `/github-decouverte` 
+2. Création d'un résumé des notions à retenir
+  - 2.1 Création d'un fichier `ResumeGitGitHub.md`
+  - 2.2 Donner la traduction en anglais et une définition simple (_une phrase de moins de 20 mots_) de chacun des termes ci-dessous :
 ```
 🔶 Git
 🔶 GitHub
@@ -16,7 +16,7 @@
 🔶 Problèmes / Tickets
 🔶 Markdown
 ```
-## 2.3 Mettre en forme le fichier `ResumeGitGitHub.md` afin d'utiliser les différentes options présentées dans le document présentant les [bases du Markdown.](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+ - 2.3 Mettre en forme le fichier `ResumeGitGitHub.md` afin d'utiliser les différentes options présentées dans le document présentant les [bases du Markdown.](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 ```
 🔶 Titres de différents niveaux
 🔶 Gras
@@ -31,4 +31,4 @@
 🔶 Problèmes / Tickets
 🔶 Markdown
 ```
-## 2.4 Enregistrer les changemments dans le fichier.
+- 2.4 Enregistrer les changemments dans le fichier. `Commit changes`

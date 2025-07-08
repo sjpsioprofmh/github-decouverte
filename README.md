@@ -1,4 +1,4 @@
-**1. Lecture du [README_GitHub_decouverte.md](README_GitHub_decouverte.md) du dépôt `/github-decouverte** 
+**1. Lecture du [README_GitHub_decouverte.md](README_GitHub_decouverte.md) du dépôt `/github-decouverte`** 
 
 **2. Création d'un résumé des notions à retenir**
   - 2.1 Création d'un fichier `ResumeGitGitHub.md`
